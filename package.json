@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pokemon GBA Battle - React Native Web App",
   "main": "index.js",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/react-native-web-app",
+  "homepage": "https://bbkuan.github.io/react-native-web-app",
   "scripts": {
     "start": "webpack serve --mode development --open",
     "build": "webpack --mode production",
